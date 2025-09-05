@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Portfolio</string>
+    <string name="name">João Victor</string>
+    <string name="description">
+        Este é um simples Portfolio de um Estudante de Análise e Desenvolvimento de Sistemas. Aqui deixarei exposto todos os projetos desenvolvidos na matéria de Desenvolvimento Mobile, e alguns projetos pessoais também
+    </string>
+    <string name="btnProjetos">Projetos</string>
+    <string name="btnDesafio">Desafio</string>
+</resources>
