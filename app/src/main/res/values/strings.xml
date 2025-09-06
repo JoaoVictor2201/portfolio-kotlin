@@ -6,4 +6,9 @@
     </string>
     <string name="btnProjetos">Projetos</string>
     <string name="btnDesafio">Desafio</string>
+    <string name="desafio">Fumante</string>
+    <string name="hintCigas">Quantos cigarros por dia?</string>
+    <string name="hintAnos">Fuma há quantos anos?</string>
+    <string name="btnCalcular">Calcular</string>
+
 </resources>
